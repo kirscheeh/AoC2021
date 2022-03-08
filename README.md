@@ -3,8 +3,8 @@ This years solutions for most of the days of [Advent of Code 2021](scripts/https
 
 | Day 	| Solution 	|
 |-----	|----------	|
-| 1   	| Sonar Sweep [Python](scripts/sonar_sweep.py), [Bash](scripts/sonar_sweep.sh)|
-| 2   	| Dive! [Python](scripts/dive.py), [Bash](scripts/dive.sh)|
+| 1   	| Sonar Sweep [Python](scripts/sonar_sweep.py), [Bash](scripts/sonar_sweep.sh), [Java](scripts/SonarSweep.java)|
+| 2   	| Dive! [Python](scripts/dive.py), [Bash](scripts/dive.sh), [Java](scripts/Dive.java)|
 | 3   	| [Binary Diagnostics](scripts/binary_diagnostics.py)|
 | 4   	| [Giant Squid](scripts/giant_squid.py)|
 | 5   	| [Hydrothermal Venture](scripts/hydrothermal_venture.py)|
